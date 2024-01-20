@@ -1,0 +1,1 @@
+DEFAULT_PDF_URL = "https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/How%20companies%20can%20adapt%20to%20climate%20change/How%20companies%20can%20adapt%20to%20climate%20change.pdf"
